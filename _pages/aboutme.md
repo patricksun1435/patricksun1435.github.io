@@ -17,7 +17,7 @@ My name is Xiaofei or Patrick. I am a random guy who writes about random stuff. 
 **A Failed Entrepreneur**, 2016 to 2018 <br/>
 *Beijing, China*
 
-**A Financial Lawyer**, 2015 to 2016 <br/>
+**A Financial Analyst**, 2015 to 2016 <br/>
 *Philadelphia, PA*
 
 **Lafayette College**, 2011 to 2015 <br/>
