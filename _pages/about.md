@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 image: 08.jpg
-permalink: /vitae/
+permalink: /About Me/
 ---
 
 My name is Xiaofei or Patrick. I am a random guy who writes about random stuff. Hope you like it. 
