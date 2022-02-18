@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  My First Post | 第一篇
+title:  Random Thoughts | 随想
 date:   2022-01-17 16:04:55 +0300
-image:  post_1.jpg
+image:  12.jpg
 tags:   Posts
 ---
 
